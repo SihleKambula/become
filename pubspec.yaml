@@ -31,3 +31,9 @@ flutter:
     - family: Abril Fatface
       fonts:
         - asset: assets/fonts/AbrilFatface-Regular.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins-Light.ttf
+        - asset: assets/fonts/Poppins-Regular.ttf
